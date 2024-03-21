@@ -2,7 +2,7 @@
 
 # Introducing "MyChat" - Your Seamless Video Chat Solution
 
-"MyChat" is a cutting-edge video chat application meticulously crafted using Django, CSS, HTML, and JavaScript. Seamlessly blending powerful backend functionality with sleek frontend design, ConvoConnect redefines the landscape of virtual communication.
+"MyChat" is a cutting-edge video chat application meticulously crafted using Django, CSS, HTML, and JavaScript. Seamlessly blending powerful backend functionality with sleek frontend design, MyChat redefines the landscape of virtual communication.
 
 With MyChat, users can effortlessly connect with friends, family, colleagues, or clients from anywhere in the world. The intuitive user interface ensures a seamless experience, allowing users to initiate video calls with just a few clicks. Whether it's catching up with loved ones, collaborating on projects, or conducting remote meetings, MyChat provides a reliable and secure platform for face-to-face interactions.
 
